@@ -1,0 +1,111 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+  border-bottom: 2px solid orange;
+}
+
+ol {
+  padding-left: 0;
+}
+
+.crumb {
+  margin-right: 2em;
+  display: inline;
+}
+
+a {
+  color: rgb(0, 60, 255);
+}
+
+a:visited {
+  color: crimson;
+}
+
+input {
+  display: block;
+}
+
+img {
+  max-width: 300px;
+}
+
+#round {
+  border: 5px solid;
+  border-radius: 10%;
+}
+#text1 {
+  font-family: fantasy;
+  font-size: 25px;
+}
+.btncolor2 {
+  border: px solid;
+  border-radius: 10%;
+  background-color: rgb(182, 69, 69);
+  font-size: 17px;
+  padding: 10px;
+  box-shadow: 5px 5px 5px;
+  font-family: cursive;
+}
+
+.all-browsers {
+  margin: 0;
+  padding: 5px;
+  background-color: rgb(187, 4, 4);
+}
+
+.all-browsers > h1,
+.browser {
+  margin: 10px;
+  padding: 5px;
+}
+
+.browser {
+  background: #6cb381;
+}
+
+.browser > h2,
+p {
+  margin: 5px;
+  font-size: 100%;
+}
+
+.browser > h2,
+p {
+  margin: 5px;
+  font-size: 100%;
+}
+
+.browser1 {
+  background: #c0ebcd;
+}
+
+.image {
+  border: 5px solid;
+  border-radius: 50%;
+}
+
+.backimage {
+  background-image: url(https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2000,w_3000,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_404137699_qwyod9.jpg);
+}
+
+.btncolor {
+  border: px solid;
+  border-radius: 10%;
+  background-color: yellow;
+  font-size: 17px;
+  padding: 10px;
+  box-shadow: 5px 5px 5px;
+  font-family: cursive;
+}
+
+.text {
+  font-family: cursive;
+  font-size: 25px;
+}
